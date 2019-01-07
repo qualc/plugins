@@ -1,0 +1,22 @@
+{
+    "name": "postcss-aliasdir",
+    "version": "1.0.1",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": {
+        "name": "qualc"
+    },
+    "bugs": {
+        "url": "https://github.com/qualc/postcss-aliasdir/issues"
+    },
+    "bundleDependencies": false,
+    "deprecated": false,
+    "description": "用于postcss编译时，项目设置别名",
+    "homepage": "https://github.com/qualc/postcss-aliasdir#readme",
+    "license": "ISC",
+    "main": "index.js",
+    "dependencies": {
+        "postcss": "^5.0.0"
+    }
+}
