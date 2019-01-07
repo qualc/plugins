@@ -1,0 +1,43 @@
+{
+  "_from": "babel-plugin-aliasdir",
+  "_id": "babel-plugin-aliasdir@1.0.0",
+  "_inBundle": false,
+  "_integrity": "sha1-8J2iG5a7Dzr6d06SXpXbZqD55Vk=",
+  "_location": "/babel-plugin-aliasdir",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "babel-plugin-aliasdir",
+    "name": "babel-plugin-aliasdir",
+    "escapedName": "babel-plugin-aliasdir",
+    "rawSpec": "",
+    "saveSpec": null,
+    "fetchSpec": "latest"
+  },
+  "_requiredBy": [
+    "#DEV:/",
+    "#USER"
+  ],
+  "_resolved": "http://registry.npm.taobao.org/babel-plugin-aliasdir/download/babel-plugin-aliasdir-1.0.0.tgz",
+  "_shasum": "f09da21b96bb0f3afa774e925e95db66a0f9e559",
+  "_spec": "babel-plugin-aliasdir",
+  "_where": "/Users/qualc/Project/github/tbnote/demo/babel-plugin",
+  "author": {
+    "name": "qualc"
+  },
+  "bundleDependencies": false,
+  "deprecated": false,
+  "description": "",
+  "license": "ISC",
+  "main": "index.js",
+  "name": "babel-plugin-aliasdir",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "1.0.3",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/qualc/babel-plugin-aliasdir.git"
+  }
+}
